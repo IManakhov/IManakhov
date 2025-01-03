@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IManakhov
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Net/NestJs
+- 🔨 I'm working with NodeJS/.Net
+- 👀 I’m interested in Software Development,Blockchain and Web3
+- 🌱 I’m currently learning writing SmartContracts
 - 💞️ I’m looking to collaborate on some project let's discuss
 - 📫 How to reach me Telegram: @imanakhov
 
